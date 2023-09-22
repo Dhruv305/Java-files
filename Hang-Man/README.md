@@ -22,20 +22,21 @@ Welcome to the Java Hangman Game repository! This project offers a classic and e
 
 1. **Clone this repository** to your local machine.
 ```bash
-git clone https://github.com/your-username/java-hangman.git
+git clone https://github.com/Dhruv305/Java-files.git
 ```
-
-2. **Compile the Java code**.
+2. **Open folder named 'Hang-Man' in your editor or change directory to 'Hang-Man' in your terminal**.
+   
+3. **Compile the Java code**.
 ```bash
 javac Hangman.java
 ```
 
-3. **Run the game**.
+4. **Run the game**.
 ```bash
 java Hangman
 ```
 
-4. **Follow the on-screen prompts** to guess letters and try to solve the word.
+5. **Follow the on-screen prompts** to guess letters and try to solve the word.
 
 ## Customization
 
